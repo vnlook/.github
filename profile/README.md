@@ -6,26 +6,26 @@
 
 ## 🔥 Our Expertise  
 
-💻 **Web Apps & Mobile Apps** – Cross-platform solutions with a seamless user experience.  
-⚙️ **Backend Development** – Scalable, high-performance APIs and microservices.  
-🔗 **Ecosystem Design** – Integrated digital ecosystems for smooth connectivity.  
-🤖 **AI-Powered Solutions** – Smart automation, chatbots, and data-driven apps.  
+🖥️ **Web Apps & Mobile Apps** – 🚀 *Cross-platform solutions with a seamless user experience.*  
+⚙️ **Backend Development** – ⚡ *Scalable, high-performance APIs and microservices.*  
+🔗 **Ecosystem Design** – 🔥 *Integrated digital ecosystems for smooth connectivity.*  
+🤖 **AI-Powered Solutions** – 🧠 *Smart automation, chatbots, and data-driven apps.*  
 
 ---
 
 ## 🎯 Core Domains  
 
-🏨 **Hotel Booking Platforms** – Scalable & user-friendly hotel reservations.  
-✈️ **Flight Booking Systems** – Secure and efficient ticketing platforms.  
-🍽 **Restaurant Management** – Smart ordering, reservations & POS solutions.  
-🌍 **Tourism & Travel Solutions** – Custom travel booking & itinerary management.  
-👨‍💻 **Outsourcing Development** – Dedicated teams for web, mobile & backend development.  
+🏨 **Hotel Booking Platforms** – 🏢 *Scalable & user-friendly hotel reservations.*  
+✈️ **Flight Booking Systems** – 🎟️ *Secure and efficient ticketing platforms.*  
+🍽 **Restaurant Management** – 🍕 *Smart ordering, reservations & POS solutions.*  
+🌍 **Tourism & Travel Solutions** – 🧳 *Custom travel booking & itinerary management.*  
+👨‍💻 **Outsourcing Development** – 💼 *Dedicated teams for web, mobile & backend development.*  
 
 ---
 
 📩 **Let’s build something great together!** 🚀  
 
-With a focus on **performance, scalability, and security**, we deliver high-quality digital solutions tailored to your needs.
+With a focus on **🔹 performance, 🔹 scalability, and 🔹 security**, we deliver high-quality digital solutions tailored to your needs.
 
 ###
 
