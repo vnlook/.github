@@ -4,7 +4,28 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnlook&label=Profile%20views&color=0e75b6&style=flat" alt="vnlook" /> </p>
 
 
-<p align="left">🔥 Our Expertise<br><br>✅ Web Apps & Mobile Apps – Cross-platform solutions with a seamless user experience.<br>✅ Backend Development – Scalable, high-performance APIs and microservices.<br>✅ Ecosystem Design – Integrated digital ecosystems for smooth connectivity.<br>✅ AI-Powered Solutions – Smart automation, chatbots, and data-driven apps.<br><br>✈️ Industry Focus<br><br>🏨 Hotel Booking Platforms – Scalable & user-friendly hotel reservations.<br>✈️ Flight Booking Systems – Secure and efficient ticketing platforms.<br>🍽 Restaurant Management – Smart ordering, reservations & POS solutions.<br><br>📩 Let’s build something great together! 🚀<br><br>With a focus on performance, scalability, and security, we deliver high-quality digital solutions tailored to your needs.</p>
+## 🔥 Our Expertise  
+
+💻 **Web Apps & Mobile Apps** – Cross-platform solutions with a seamless user experience.  
+⚙️ **Backend Development** – Scalable, high-performance APIs and microservices.  
+🔗 **Ecosystem Design** – Integrated digital ecosystems for smooth connectivity.  
+🤖 **AI-Powered Solutions** – Smart automation, chatbots, and data-driven apps.  
+
+---
+
+## 🌍 Industry Focus  
+
+🏨 **Hotel Booking Platforms** – Scalable & user-friendly hotel reservations.  
+✈️ **Flight Booking Systems** – Secure and efficient ticketing platforms.  
+🍽 **Restaurant Management** – Smart ordering, reservations & POS solutions.  
+🌍 **Tourism & Travel Solutions** – Custom travel booking & itinerary management.  
+👨‍💻 **Outsourcing Development** – Dedicated teams for web, mobile & backend development.  
+
+---
+
+📩 **Let’s build something great together!** 🚀  
+
+With a focus on **performance, scalability, and security**, we deliver high-quality digital solutions tailored to your needs.
 
 ###
 
