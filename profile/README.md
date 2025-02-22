@@ -95,19 +95,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="40" alt="centos logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vnlook/vnlook/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/vnlook-team"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vnlook-team" /></a><a href="https://ko-fi.com/vnlook-team"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vnlook-team" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vnlook&show_icons=true&locale=en&layout=compact" alt="vnlook" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vnlook&show_icons=true&locale=en" alt="vnlook" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vnlook&" alt="vnlook" /></p>
