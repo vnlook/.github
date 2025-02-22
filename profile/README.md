@@ -13,7 +13,7 @@
 
 ---
 
-## 🌍 Industry Focus  
+## 🎯 Core Domains  
 
 🏨 **Hotel Booking Platforms** – Scalable & user-friendly hotel reservations.  
 ✈️ **Flight Booking Systems** – Secure and efficient ticketing platforms.  
